@@ -15,8 +15,8 @@ Family
 Achievements
 Projects accomplished 
 
-### Lie link
-The live link is:
+### Live link
+The live link is:https://amanikai.github.io/Week1-Portfolio/
  
 ## Setup/Installation Requirements
 Used VS Code
