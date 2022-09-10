@@ -24,8 +24,11 @@ Git ash integrated in VS code
 Used CSS for styling 
 
 ## Technologies Used
+
 The below languages were used
+
 CSS
+
 HTML
  
 ## Support and contact details
