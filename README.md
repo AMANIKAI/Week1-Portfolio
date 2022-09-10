@@ -19,8 +19,11 @@ Projects accomplished
 The live link is:https://amanikai.github.io/Week1-Portfolio/
  
 ## Setup/Installation Requirements
+
 Used VS Code
-Git ash integrated in VS code
+
+Git bash integrated in VS code
+
 Used CSS for styling 
 
 ## Technologies Used
