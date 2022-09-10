@@ -10,9 +10,13 @@ This document was authored By **Amani Kai**
  
 ## Description
 This project describes the biography of Amani, this includes:
+
 Education
+
 Family
+
 Achievements
+
 Projects accomplished 
 
 ### Live link
