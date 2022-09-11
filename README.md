@@ -30,6 +30,8 @@ Git bash integrated in VS code
 
 Used CSS for styling 
 
+Code formatted using Prettier code formatter
+
 ## Technologies Used
 
 The below languages were used
@@ -47,4 +49,3 @@ If you need any assistance on any issues or have questions, ideas or concerns. K
 _The License used is GPL_
 
 (C)Amani Kai 2022 
-
